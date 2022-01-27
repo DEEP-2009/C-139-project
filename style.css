@@ -37,3 +37,8 @@ h4
 {
     margin: 0px;
 }
+canvas
+{
+    border-radius: 2%;
+    box-shadow: 5px 6px 5px white ;
+}
